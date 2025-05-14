@@ -39,4 +39,4 @@ Erstellt eine neue Datei und schreibt einen Text hinein.
 Zeigt verschiedene Informationen über eine Datei an, z. B. Größe oder letzter Zugriff.
 
 ---
-Ich hoffe das war schön 😊
+
